@@ -52,13 +52,9 @@
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bisho2021&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisho2021&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+GitHub profile showcasing my data analytics learning journey and practical projects.
+
 
 ## 📚 Currently Learning
 
